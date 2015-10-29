@@ -34,7 +34,27 @@ namespace MovieNightHomework4
                 TQ.FoodTotal = (TQ.FoodTotal - 2.00);
             }
             else
+            {
+                TQ.FoodTotal = (TQ.FoodTotal - 0.00);
+            }
+            
+            if ((TQ.Ctickets + TQ.Atickets + TQ.Stickets) >= 3 && TQ.Popcorn >= 1)
+            {
+                TQ.FoodTotal = (TQ.FoodTotal - 4.50);
+            }
+            else
+            {
+                TQ.FoodTotal = (TQ.FoodTotal - 0.00);
+            }
 
+            if (TQ.Candy >= 4)
+            {
+                TQ.FoodTotal = (TQ.FoodTotal - 1.99);
+            }
+            else
+            {
+                TQ.FoodTotal = (TQ.FoodTotal - 0.00);
+            }
 
             if (Showtime.ToUpper() == "MATINEE")
             {

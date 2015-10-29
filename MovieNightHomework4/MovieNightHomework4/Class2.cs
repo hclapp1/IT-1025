@@ -9,7 +9,7 @@ namespace MovieNightHomework4
     public class DrinkQuestions
     {
         public int Ldrink;
-        int Sdrink;
+        public int Sdrink;
         string DrinkAnswer;
         string DrinkAnswer1;
         public double DrinkTotal;
@@ -33,15 +33,14 @@ namespace MovieNightHomework4
             if (DrinkAnswer1.ToUpper() == "SMALL")
             {
                 Console.WriteLine("How many Small drinks would you like?");
-                Sdrink = int.Parse(Console.ReadLine());
-            }
+                Sdrink = int.Parse(Console.ReadLine());}
             else
             {
                 Console.WriteLine("How many Large drinks would you like?");
-                Ldrink = int.Parse(Console.ReadLine());
-
-                DrinkTotal = ((Ldrink * 5.99) + (Sdrink * 3.50));
+                Ldrink = int.Parse(Console.ReadLine());   
             }
+
+            DrinkTotal = ((Ldrink * 5.99) + Sdrink * 3.50);
         }
     }
 }

@@ -9,12 +9,12 @@ namespace MovieNightHomework4
     public class TicketQuestions
     {
 
-        int Ctickets;
-        int Atickets;
-        int Stickets;
-        int HotDogs;
+        public int Ctickets;
+        public int Atickets;
+        public int Stickets;
+        public int HotDogs;
         public int Popcorn;
-        int Candy;
+        public int Candy;
         public double TicketTotal1;
         public double TicketTotal2;
         public double FoodTotal;

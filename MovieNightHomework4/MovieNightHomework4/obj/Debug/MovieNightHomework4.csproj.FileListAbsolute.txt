@@ -3,3 +3,4 @@ c:\users\harry\documents\visual studio 2015\Projects\MovieNightHomework4\MovieNi
 c:\users\harry\documents\visual studio 2015\Projects\MovieNightHomework4\MovieNightHomework4\bin\Debug\MovieNightHomework4.pdb
 c:\users\harry\documents\visual studio 2015\Projects\MovieNightHomework4\MovieNightHomework4\obj\Debug\MovieNightHomework4.exe
 c:\users\harry\documents\visual studio 2015\Projects\MovieNightHomework4\MovieNightHomework4\obj\Debug\MovieNightHomework4.pdb
+C:\Users\Harry\documents\visual studio 2015\Projects\MovieNightHomework4\MovieNightHomework4\obj\Debug\MovieNightHomework4.csprojResolveAssemblyReference.cache
