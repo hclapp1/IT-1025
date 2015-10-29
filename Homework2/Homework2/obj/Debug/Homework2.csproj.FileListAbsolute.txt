@@ -4,3 +4,6 @@ c:\users\harry\documents\visual studio 2015\Projects\Homework2\Homework2\bin\Deb
 c:\users\harry\documents\visual studio 2015\Projects\Homework2\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
 c:\users\harry\documents\visual studio 2015\Projects\Homework2\Homework2\obj\Debug\Homework2.exe
 c:\users\harry\documents\visual studio 2015\Projects\Homework2\Homework2\obj\Debug\Homework2.pdb
+C:\Users\Harry\Desktop\IT-1025\Homework2\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Harry\Desktop\IT-1025\Homework2\Homework2\obj\Debug\Homework2.exe
+C:\Users\Harry\Desktop\IT-1025\Homework2\Homework2\obj\Debug\Homework2.pdb

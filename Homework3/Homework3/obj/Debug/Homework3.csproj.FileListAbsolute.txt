@@ -7,3 +7,4 @@ C:\Users\Harry\documents\visual studio 2015\Projects\Homework3\Homework3\obj\Deb
 C:\Users\Harry\Desktop\IT-1025\Homework3\Homework3\bin\Debug\Homework3.exe.config
 C:\Users\Harry\Desktop\IT-1025\Homework3\Homework3\obj\Debug\Homework3.exe
 C:\Users\Harry\Desktop\IT-1025\Homework3\Homework3\obj\Debug\Homework3.pdb
+C:\Users\Harry\Desktop\IT-1025\Homework3\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
