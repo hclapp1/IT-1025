@@ -49,7 +49,7 @@ namespace MovieNightHomework4
 
             if (TQ.Candy >= 4)
             {
-                TQ.FoodTotal = (TQ.FoodTotal - 1.99);
+                TQ.FoodTotal = (TQ.FoodTotal - ((TQ.Candy / 4) * 1.99));
             }
             else
             {
