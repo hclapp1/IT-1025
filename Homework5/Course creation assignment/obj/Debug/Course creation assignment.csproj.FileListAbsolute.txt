@@ -1,0 +1,6 @@
+c:\users\harry\documents\visual studio 2015\Projects\Course creation assignment\Course creation assignment\bin\Debug\Course creation assignment.exe.config
+c:\users\harry\documents\visual studio 2015\Projects\Course creation assignment\Course creation assignment\bin\Debug\Course creation assignment.exe
+c:\users\harry\documents\visual studio 2015\Projects\Course creation assignment\Course creation assignment\bin\Debug\Course creation assignment.pdb
+c:\users\harry\documents\visual studio 2015\Projects\Course creation assignment\Course creation assignment\obj\Debug\Course creation assignment.csprojResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2015\Projects\Course creation assignment\Course creation assignment\obj\Debug\Course creation assignment.exe
+c:\users\harry\documents\visual studio 2015\Projects\Course creation assignment\Course creation assignment\obj\Debug\Course creation assignment.pdb
